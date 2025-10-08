@@ -1,4 +1,4 @@
-Tony Makhoul — Machine Learning Projects
+Tony Makhoul -> Machine Learning Projects
 
 Hi! I’m Tony Makhoul, a Computer Engineering student with a strong passion for Machine Learning. This repository showcases my hands-on ML projects, covering predictive modeling, clustering, recommendation systems, and more.
 
